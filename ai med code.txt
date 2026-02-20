@@ -384,7 +384,7 @@
 
 <script>
 // ⚠️ REPLACE THIS URL WITH YOUR CLOUDFLARE WORKER URL
-const WORKER_URL = 'https://dash.cloudflare.com/b8267bcfa94003892d0cc9ef22b7e7bc/workers/services/view/medleaf/production';
+const WORKER_URL = 'https://medleaf.jeeva-54281.workers.dev';
 
 const SYSTEM_PROMPT = `You are MedLeaf, a knowledgeable AI Health Assistant specializing in common illnesses and natural remedies. 
 
